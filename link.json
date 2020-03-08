@@ -1,13 +1,15 @@
 [
  {
   "link" : "https://cdn.jwplayer.com/players/VfrCe9jU-GecJMmdw.js",
-  "video" : "https://content.jwplatform.com/videos/VfrCe9jU-pVcKFkuB.mp4"
+  "video" : "https://content.jwplatform.com/videos/VfrCe9jU-pVcKFkuB.mp4",
+  "tumb" : "https://content.jwplatform.com/thumbs/VfrCe9jU-1920.jpg"
   
       },
 
 {
  "link": "https://cdn.jwplayer.com/players/S71B3rPA-GecJMmdw.js",
- "video" : "https://content.jwplatform.com/videos/S71B3rPA-68xWGYQO.mp4"
+ "video" : "https://content.jwplatform.com/videos/S71B3rPA-68xWGYQO.mp4",
+ "tumb" : "https://content.jwplatform.com/thumbs/S71B3rPA-1280.jpg"
         }
 
 ]
