@@ -1,11 +1,13 @@
 [
  {
-  "link" : "https://cdn.jwplayer.com/players/VfrCe9jU-GecJMmdw.js" 
-    
-  },
+  "link" : "https://cdn.jwplayer.com/players/VfrCe9jU-GecJMmdw.js",
+  "video" : "https://content.jwplatform.com/videos/VfrCe9jU-pVcKFkuB.mp4"
+  
+      },
 
 {
- "link": "https://cdn.jwplayer.com/players/S71B3rPA-GecJMmdw.js"
+ "link": "https://cdn.jwplayer.com/players/S71B3rPA-GecJMmdw.js",
+ "video" : "https://content.jwplatform.com/videos/S71B3rPA-68xWGYQO.mp4"
         }
 
 ]
