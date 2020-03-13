@@ -3,27 +3,27 @@
     "thumb": "https://content.jwplatform.com/thumbs/VfrCe9jU-1920.jpg",
     "name" : "https://content.jwplatform.com/videos/VfrCe9jU-pVcKFkuB.mp4",
     "pl" : "https://cdn.jwplayer.com/players/VfrCe9jU-GecJMmdw.js",
-    "foods": {
-      "likes": ["fresh food"],
-      "dislikes": ["stale food"]
+    "tags": {
+      "tg": ["rica", "fazenda"]
+      
     }
   },
   {
     "thumb": "https://content.jwplatform.com/thumbs/S71B3rPA-1280.jpg",
     "name" : "https://content.jwplatform.com/videos/S71B3rPA-68xWGYQO.mp4",
     "pl" : "https://cdn.jwplayer.com/players/S71B3rPA-GecJMmdw.js",
-    "foods": {
-      "likes": ["tomatoes", "peas"],
-      "dislikes": ["bread"]
+    "tags": {
+      "tg": ["piano", "albina", "chopin"]
+     
     }
   },
   {
     "thumb": "https://content.jwplatform.com/thumbs/uG9O6uz1-1280.jpg",
     "name" : "https://content.jwplatform.com/videos/uG9O6uz1-68xWGYQO.mp4",
     "pl" : "https://cdn.jwplayer.com/players/uG9O6uz1-GecJMmdw.js",
-    "foods": {
-      "likes": ["tomatoes", "peas"],
-      "dislikes": ["bread"]
+    "tags": {
+      "tg": ["piano", "albina", "halellujah"]
+     
     }
   }
   
