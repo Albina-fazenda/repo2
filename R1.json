@@ -3,7 +3,7 @@
     "thumb": "https://content.jwplatform.com/thumbs/VfrCe9jU-1920.jpg",
     "name" : "https://content.jwplatform.com/videos/VfrCe9jU-pVcKFkuB.mp4",
     "pl" : "https://cdn.jwplayer.com/players/VfrCe9jU-GecJMmdw.js",
-    "tg": ["piano", "albina", "chopin"],
+    "tg": ["cadastro de usuario", "chopin"],
     "label": ["valsa chopin"]
     
       
@@ -12,7 +12,7 @@
     "thumb": "https://content.jwplatform.com/thumbs/S71B3rPA-1280.jpg",
     "name" : "https://content.jwplatform.com/videos/S71B3rPA-68xWGYQO.mp4",
     "pl" : "https://cdn.jwplayer.com/players/S71B3rPA-GecJMmdw.js",
-    "tg": ["rica", "fazenda"],
+    "tg": ["cadastro de bovino", "fazenda"],
     "label": [" cadastro bovino"]
      
      },
@@ -20,7 +20,7 @@
     "thumb": "https://content.jwplatform.com/thumbs/uG9O6uz1-1280.jpg",
     "name" : "https://content.jwplatform.com/videos/uG9O6uz1-68xWGYQO.mp4",
     "pl" : "https://cdn.jwplayer.com/players/uG9O6uz1-GecJMmdw.js",
-    "tg": ["piano", "albina", "halellujah","aulas"],
+    "tg": ["piano", "cadastro de medicamentos", "halellujah","aulas"],
     "label": ["aulas de piano"]
      
    }
