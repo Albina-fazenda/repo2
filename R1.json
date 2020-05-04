@@ -18,8 +18,8 @@
      },
   {
     "thumb": "https://content.jwplatform.com/thumbs/uG9O6uz1-1280.jpg",
-    "name" : '<script>jwplayer("myElement").setup({playlist:"https://cdn.jwplayer.com/v2/playlists/1HuceLWc"});</script>
-',
+    "name" : "<script>jwplayer("myElement").setup({playlist:"https://cdn.jwplayer.com/v2/playlists/1HuceLWc"});</script>
+",
     "pl" : "https://cdn.jwplayer.com/players/uG9O6uz1-GecJMmdw.js",
     "tg": ["piano", "cadastro de medicamentos", "halellujah","aulas"],
     "label": ["aulas de piano"]
