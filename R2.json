@@ -6,7 +6,7 @@
     "name" : "https://content.jwplatform.com/videos/IyAI0M6U-pVcKFkuB.mp4",
     "pl" : "https://cdn.jwplayer.com/players/IyAI0M6U-GecJMmdw.js",
     "tg": ["cadastro de bovino", "bovino", "cadastro", "cadastrar"],
-    "label": ["Cadastro De Bovino"],
+    "label": "Cadastro De Bovino",
     "link": ["https://www.youtube.com/", "https://app.tororadar.com.br/acoes/suzb3/"]
     
       
@@ -18,7 +18,8 @@
     "name" : "https://content.jwplatform.com/videos/aeFzyTmp-pVcKFkuB.mp4",
     "pl" : "https://cdn.jwplayer.com/players/aeFzyTmp-GecJMmdw.js",
     "tg": ["cadastro de medicamentos", "medicamentos", "cadastro", "cadastrar"],
-    "label": ["Cadastro De Medicamentos"]
+    "label": "Cadastro De Medicamentos",
+    "link": [""]
     
     
   
@@ -31,8 +32,8 @@
     "name" : "https://content.jwplatform.com/videos/nMnsKPVR-pVcKFkuB.mp4",
     "pl" : "https://cdn.jwplayer.com/players/nMnsKPVR-GecJMmdw.js",
     "tg": ["relatorio de extrato de bovino", "bovino", "relatorio", "emitir", "gerar"],
-    "label": ["Relatorio De Extrato De Bovino"]
-    
+    "label": "Relatorio De Extrato De Bovino",
+    "link": [""]
     
   
       
@@ -44,7 +45,8 @@
     "name" : "https://content.jwplatform.com/videos/wwMzdT0u-pVcKFkuB.mp4",
     "pl" : "https://cdn.jwplayer.com/players/wwMzdT0u-GecJMmdw.js",
     "tg": ["cadastro de propriedade e animais", "cadastro", "cadastro de propriedade", "cadastro de animais", "cadastrar"],
-    "label": ["Cadastro De Propriedade E Animais"]
+    "label": "Cadastro De Propriedade E Animais",
+    "link": [""]
     
     
   
@@ -57,7 +59,8 @@
     "name" : "https://content.jwplatform.com/videos/RzQ2fowr-pVcKFkuB.mp4",
     "pl" : "https://cdn.jwplayer.com/players/RzQ2fowr-GecJMmdw.js",
     "tg": ["cadastro de lote", "cadastro", "lote", "lote de animais", "cadastrar"],
-    "label": ["Cadastro De Lote"]
+    "label": "Cadastro De Lote",
+    "link": [""]
     
     
   
@@ -70,7 +73,8 @@
     "name" : "https://content.jwplatform.com/videos/0kLCwI4v-pVcKFkuB.mp4",
     "pl" : "https://cdn.jwplayer.com/players/0kLCwI4v-GecJMmdw.js",
     "tg": ["configurar protocolo", "configuracao de protocolo", "protocolo", "configurar", "iatf"],
-    "label": ["Configurar Protocolo"]
+    "label": "Configurar Protocolo",
+    "link": [""]
     
     
   
@@ -84,7 +88,8 @@
     "name" : "https://content.jwplatform.com/videos/IiiSSYcZ-pVcKFkuB.mp4",
     "pl" : "https://cdn.jwplayer.com/players/IiiSSYcZ-GecJMmdw.js",
     "tg": ["completar dados da propriedade", "completar dados", "dados da propriedade"],
-    "label": ["Completar Dados Do Propriedade"]
+    "label": "Completar Dados Do Propriedade",
+    "link": [""]
     
     
   
@@ -98,8 +103,8 @@
     "name" : "https://content.jwplatform.com/videos/7uslyhHA-pVcKFkuB.mp4",
     "pl" : "https://cdn.jwplayer.com/players/7uslyhHA-GecJMmdw.js",
     "tg": ["relatorio de estoque", "relatorio", "estoque", "emitir", "gerar"],
-    "label": ["Relatorio De Estoque"]
-    
+    "label": "Relatorio De Estoque",
+    "link": [""]
     
   
       
@@ -112,7 +117,8 @@
     "name" : "https://content.jwplatform.com/videos/1pqzShQk-pVcKFkuB.mp4",
     "pl" : "https://cdn.jwplayer.com/players/1pqzShQk-GecJMmdw.js",
     "tg": ["notificação de eventos", "notificação", "eventos", "notificar"],
-    "label": ["Notificação De Eventos"]
+    "label": "Notificação De Eventos",
+    "link": [""]
     
     
   
