@@ -7,7 +7,7 @@
     "pl" : "https://cdn.jwplayer.com/players/IyAI0M6U-GecJMmdw.js",
     "tg": ["cadastro de bovino", "bovino", "cadastro", "cadastrar"],
     "label": "Cadastro De Bovino",
-    "link": ["PDF.html", "Manual"]
+    "link": ["Cadastro de bovino", "15", "Novo bovino", "20"]
     
       
       },
@@ -19,7 +19,7 @@
     "pl" : "https://cdn.jwplayer.com/players/aeFzyTmp-GecJMmdw.js",
     "tg": ["cadastro de medicamentos", "medicamentos", "cadastro", "cadastrar"],
     "label": "Cadastro De Medicamentos",
-    "link": [""]
+    "link": ["Cadastrar medicamentos", "32", "IATF", "54"]
     
     
   
@@ -33,7 +33,7 @@
     "pl" : "https://cdn.jwplayer.com/players/nMnsKPVR-GecJMmdw.js",
     "tg": ["relatorio de extrato de bovino", "bovino", "relatorio", "emitir", "gerar"],
     "label": "Relatorio De Extrato De Bovino",
-    "link": [""]
+    "link": ["Emitir relatorio", "41", "Grafico", "30", "Extrato", "94"]
     
   
       
@@ -46,7 +46,7 @@
     "pl" : "https://cdn.jwplayer.com/players/wwMzdT0u-GecJMmdw.js",
     "tg": ["cadastro de propriedade e animais", "cadastro", "cadastro de propriedade", "cadastro de animais", "cadastrar"],
     "label": "Cadastro De Propriedade E Animais",
-    "link": [""]
+    "link": ["Cadastro de propriedade e animais", "12"]
     
     
   
@@ -60,7 +60,7 @@
     "pl" : "https://cdn.jwplayer.com/players/RzQ2fowr-GecJMmdw.js",
     "tg": ["cadastro de lote", "cadastro", "lote", "lote de animais", "cadastrar"],
     "label": "Cadastro De Lote",
-    "link": [""]
+    "link": ["Lote de animais", "77", "administrar lote", "28"]
     
     
   
@@ -74,7 +74,7 @@
     "pl" : "https://cdn.jwplayer.com/players/0kLCwI4v-GecJMmdw.js",
     "tg": ["configurar protocolo", "configuracao de protocolo", "protocolo", "configurar", "iatf"],
     "label": "Configurar Protocolo",
-    "link": [""]
+    "link": ["Protocolo", "14"]
     
     
   
@@ -89,7 +89,7 @@
     "pl" : "https://cdn.jwplayer.com/players/IiiSSYcZ-GecJMmdw.js",
     "tg": ["completar dados da propriedade", "completar dados", "dados da propriedade"],
     "label": "Completar Dados Do Propriedade",
-    "link": [""]
+    "link": ["Dados da propriedade", "33", "Completar dados", "76"]
     
     
   
@@ -104,7 +104,7 @@
     "pl" : "https://cdn.jwplayer.com/players/7uslyhHA-GecJMmdw.js",
     "tg": ["relatorio de estoque", "relatorio", "estoque", "emitir", "gerar"],
     "label": "Relatorio De Estoque",
-    "link": [""]
+    "link": ["Estoque", "101", "Relatorio", "123"]
     
   
       
@@ -118,7 +118,7 @@
     "pl" : "https://cdn.jwplayer.com/players/1pqzShQk-GecJMmdw.js",
     "tg": ["notificação de eventos", "notificação", "eventos", "notificar"],
     "label": "Notificação De Eventos",
-    "link": [""]
+    "link": ["Notificar", "22", "Criar alerta", "60"]
     
     
   
